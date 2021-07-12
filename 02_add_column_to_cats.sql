@@ -1,0 +1,1 @@
+ALTER TABLE cats ADD COLUMN treat TEXT; 
